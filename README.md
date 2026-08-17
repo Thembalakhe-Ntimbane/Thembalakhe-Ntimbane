@@ -38,19 +38,4 @@ I build projects to strengthen my programming, engineering, and problem-solving 
 - Electronics projects
 - 3D-printable designs
 
-## Goals
-
-- Become a strong Full-Stack Developer
-- Build production-ready applications
-- Develop strong backend engineering skills
-- Become proficient in data analysis
-- Build practical embedded systems
-- Combine software, electronics, and hardware
-
-## Currently Learning
-
-Python • Java • JavaScript • SQL • Data Analysis • Backend Development • Embedded Systems
-
----
-
-**Learning. Building. Improving.**
+Hard work beats talent
